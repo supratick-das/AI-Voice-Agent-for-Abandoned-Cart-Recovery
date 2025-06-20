@@ -34,7 +34,3 @@ class ProductRAG:
             max_tokens=100
         )
         return response['choices'][0]['message']['content'].strip()
-
-# Example usage:
-# rag = ProductRAG()
-# print(rag.answer_query('Tell me about the smart watch')) 
