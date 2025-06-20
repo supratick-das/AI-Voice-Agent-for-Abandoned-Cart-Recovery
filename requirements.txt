@@ -1,0 +1,7 @@
+flask
+openai
+twilio
+python-dotenv
+pandas
+sentence-transformers
+scikit-learn 
